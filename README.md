@@ -4,8 +4,8 @@ Hey there, I'm Angus – a software engineer with a passion for crafting practic
 
 - 🚀 Constantly exploring new technologies and honing my skills.
 - 🧩 Solving puzzles through code and finding elegant solutions.
-- 🌐 Check out my [Portfolio Website](https://angusgoody.com){:target="_blank"} for more about my work.
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/angusgoody){:target="_blank"}.
+- 🌐 Check out my [Portfolio Website](https://angusgoody.com) for more about my work.
+- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/angusgoody).
 
 ## Projects and Portfolio
 
