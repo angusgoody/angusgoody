@@ -23,7 +23,7 @@ Feel free to browse through my repositories, delve into the code, and don't hesi
 Happy coding!
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angusgoody&theme=vue" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angusgoody&theme=whatsapp-dark2" alt="GitHub Streak" /></a>
 </div>
 
 <!--
