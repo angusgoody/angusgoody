@@ -1,6 +1,6 @@
 # Welcome!
 
-Hey there, I'm Angus – a software engineer with a passion for crafting practical solutions and a knack for problem-solving. Feel free to explore:
+Hey there, I'm Angus – a software engineer
 
 ## Links
 
