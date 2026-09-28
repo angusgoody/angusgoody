@@ -12,7 +12,7 @@ Hey there, I'm Angus – a software engineer
 Explore some of my notable projects:
 
 - [Py2Json](https://github.com/angus-websites/py2json26): A site for converting python dictionaries to json
-- [Wish4it](https://github.com/angus-websites/pointy-poker): A site for agile teams to play scrum poker
+- [PointyPoker](https://github.com/angus-websites/pointy-poker): A site for agile teams to play scrum poker
 - [Poo](https://github.com/angus-websites/poo26): A simple URL shortner
 
 ## My Websites
